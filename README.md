@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Rajvinder Kaur 👋
 
-<!--
-**Rkncodes/Rkncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Computer Science student focused on backend engineering and building secure, scalable systems.
 
-Here are some ideas to get you started:
+I work on API-driven web applications with authentication, role-based access control, and AI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+C • C++ • Java • Python • SQL  
+React • Next.js  
+Node.js • Express • FastAPI  
+NLP • Transformer-based models  
+
+🤝 Open to collaborating on any of my projects  
+📫 rajvinderkaurpersonal@gmail.com  
+🔗 www.linkedin.com/in/rajvinder-kaur-5a2442323/
