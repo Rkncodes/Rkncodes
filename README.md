@@ -2,13 +2,10 @@
 
 Second-year Computer Science student focused on backend engineering and building secure, scalable systems.
 
-I enjoy designing API-driven web applications with authentication, role-based access control, and AI integrations.
+- 🔭 I’m currently working on my personal portfolio
 
----
 
-## 🚀 Currently
-🔭 Working on my personal portfolio  
-🌱 Learning Machine Learning and improving DSA fundamentals  
+- 🌱 I’m currently learning Machine Learning and strengthening DSA fundamentals   
 
 ---
 
