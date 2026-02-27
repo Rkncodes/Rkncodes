@@ -14,7 +14,7 @@ I enjoy designing API-driven web applications with authentication, role-based ac
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,react,nextjs,nodejs,express,fastapi,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,react,nextjs,nodejs,git" />
 </p>
 
 ---
