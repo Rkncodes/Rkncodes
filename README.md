@@ -19,5 +19,5 @@ Second-year Computer Science student focused on backend engineering and building
 ### 🛠 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,react,nextjs,nodejs,express,fastapi,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,react,nextjs,nodejs,git" />
 </p>
